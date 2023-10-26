@@ -1,0 +1,11 @@
+application:
+  resource:
+    devices: devices
+    users: users
+    roles: roles
+    terminals: terminals
+    partners: partners
+    merchants: merchants
+    resources: resources
+    userroles: userroles
+    permissions: permissions
